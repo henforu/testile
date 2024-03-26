@@ -1,24 +1,24 @@
 {
-  "name": "BetterDark Purple",
-  "description": "Darker than dark, with a twist of purple.",
-  "color": "#F8BE5C",
+  "name": "Grey",
+  "description": "Black with Grey",
+  "color": "#18191A",
   "authors": [
     {
-      "name": "darealyeeto",
-      "id": "980160393093730395"
+      "name": "schemeboy",
+      "id": "857159554537357332"
     }
   ],
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#F8BE5C",
+      "#ffffff",
       "#ffffff"
     ],
     "HEADER_SECONDARY": [
-      "#F8BE5C",
+      "#ffffff",
       "#ffffff"
     ],
     "TEXT_NORMAL": [
-      "#F8BE5C",
+      "#18191A",
       "#000000"
     ],
     "TEXT_MUTED": [
@@ -26,19 +26,19 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#F8BE5C",
+      "#18191A",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#F8BE5C",
+      "#18191A",
       "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#F8BE5C",
+      "#18191A",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#F8BE5C",
+      "#18191A",
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
@@ -46,23 +46,23 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#F8BE5C",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#F8BE5C",
+      "#18191A",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#F8BE5C",
+      "#18191A",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
-      "#F8BE5C",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_FLOATING": [
-      "#F8BE5C",
+      "#18191A",
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
@@ -78,15 +78,15 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#F8BE5C",
+      "#333333",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#F8BE5C",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#53266A",
+      "#18191A",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
@@ -122,11 +122,11 @@
       "#ffffff"
     ],
     "CHAT_BACKGROUND": [
-      "#F8BE5C",
+      "#000000",
       "#ffffff"
     ],
     "CHANNELS_DEFAULT": [
-      "#D5D5D5",
+      "#18191A",
       "#ffffff"
     ],
     "CARD_PRIMARY_BG": [
@@ -139,15 +139,15 @@
       "#000000"
     ],
     "TEXT_LINK": [
-      "#F8BE5C",
+      "#18191A",
       "#ffffff"
     ],
     "KEYBOARD": [
-      "#000000",
-      "#ffffff"
+      "#18191A",
+      "#18191A"
     ],
     "CHANNEL_ICON": [
-      "#F8BE5C",
+      "#18191A",
       "#ffffff"
     ]
   },
@@ -183,9 +183,9 @@
     "RED": "#848484"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#8E8E8E"
+    "CHAT_GREY": "#18191A"
   },
   "background": {
-    "url": "https://media.discordapp.net/attachments/1212247670018801664/1222106729416888351/IMG_1811.png?ex=66150295&is=66028d95&hm=5c59edceed5f87d64425c0710f45b221e33017ca4216594ea2850d052cfa5cb5&"
+        "url": "https://media.discordapp.net/attachments/1212247670018801664/1222109290018635796/IMG_1846.jpg?ex=661504f8&is=66028ff8&hm=2fe64ff96c9c230ce83b4461b68aafe6c3d5ccaaad69cd614607d9b03da713d4&"
   }
 }
