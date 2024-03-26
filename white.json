@@ -10,15 +10,15 @@
   ],
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#ffffff",
+      "#F8BE5C",
       "#ffffff"
     ],
     "HEADER_SECONDARY": [
-      "#ffffff",
+      "#F8BE5C",
       "#ffffff"
     ],
     "TEXT_NORMAL": [
-      "#ffffff",
+      "#F8BE5C",
       "#000000"
     ],
     "TEXT_MUTED": [
@@ -26,19 +26,19 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#8F5CA8",
+      "#F8BE5C",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#8F5CA8",
+      "#F8BE5C",
       "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#8F5CA8",
+      "#F8BE5C",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#8F5CA8",
+      "#F8BE5C",
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
@@ -46,23 +46,23 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000",
+      "#F8BE5C",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#3E2849",
+      "#F8BE5C",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#3E2849",
+      "#F8BE5C",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
-      "#272c35",
+      "#F8BE5C",
       "#ffffff"
     ],
     "BACKGROUND_FLOATING": [
-      "#111317",
+      "#F8BE5C",
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
@@ -78,11 +78,11 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#333333",
+      "#F8BE5C",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#53266A",
+      "#F8BE5C",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
@@ -122,7 +122,7 @@
       "#ffffff"
     ],
     "CHAT_BACKGROUND": [
-      "#000000",
+      "#F8BE5C",
       "#ffffff"
     ],
     "CHANNELS_DEFAULT": [
@@ -139,7 +139,7 @@
       "#000000"
     ],
     "TEXT_LINK": [
-      "#8F5CA8",
+      "#F8BE5C",
       "#ffffff"
     ],
     "KEYBOARD": [
@@ -147,7 +147,7 @@
       "#ffffff"
     ],
     "CHANNEL_ICON": [
-      "#8F5CA8",
+      "#F8BE5C",
       "#ffffff"
     ]
   },
@@ -186,6 +186,6 @@
     "CHAT_GREY": "#8E8E8E"
   },
   "background": {
-    "url": "https://cdn.discordapp.com/attachments/981248954937274409/1213274612843159642/Untitled34_20240301213248.png?ex=65f4e109&is=65e26c09&hm=9a432c28ef688d8f0701f6092a27301e803e4b3f0a4748f35f62feb653c82600&"
+    "url": "https://media.discordapp.net/attachments/1212247670018801664/1222106729416888351/IMG_1811.png?ex=66150295&is=66028d95&hm=5c59edceed5f87d64425c0710f45b221e33017ca4216594ea2850d052cfa5cb5&"
   }
 }
