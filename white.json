@@ -1,11 +1,11 @@
 {
-  "name": "BetterDark Purple",
-  "description": "Darker than dark, with a twist of purple.",
-  "color": "#7B5190",
+  "name": "Red Black",
+  "description": "warm red",
+  "color": "#800020",
   "authors": [
     {
-      "name": "darealyeeto",
-      "id": "980160393093730395"
+      "name": "schemeboy",
+      "id": "857159554537357332"
     }
   ],
   "semanticColors": {
@@ -18,8 +18,8 @@
       "#ffffff"
     ],
     "TEXT_NORMAL": [
-      "#ffffff",
-      "#000000"
+      "#800020",
+      "#800020"
     ],
     "TEXT_MUTED": [
       "#C3C3C3",
@@ -46,15 +46,15 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000",
-      "#ffffff"
+      "#800020",
+      "#800020"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#3E2849",
+      "#800020",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#3E2849",
+      "#800020",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
@@ -66,8 +66,8 @@
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000",
-      "#ffffff"
+      "#800020",
+      "#800020"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#000000",
