@@ -1,11 +1,11 @@
 {
-  "name": "Red Black",
-  "description": "warm red",
-  "color": "#800020",
+  "name": "BetterDark Purple",
+  "description": "Darker than dark, with a twist of purple.",
+  "color": "#F8BE5C",
   "authors": [
     {
-      "name": "schemeboy",
-      "id": "857159554537357332"
+      "name": "darealyeeto",
+      "id": "980160393093730395"
     }
   ],
   "semanticColors": {
@@ -18,8 +18,8 @@
       "#ffffff"
     ],
     "TEXT_NORMAL": [
-      "#800020",
-      "#800020"
+      "#ffffff",
+      "#000000"
     ],
     "TEXT_MUTED": [
       "#C3C3C3",
@@ -46,15 +46,15 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#800020",
-      "#800020"
+      "#000000",
+      "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#800020",
+      "#3E2849",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#800020",
+      "#3E2849",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
@@ -66,8 +66,8 @@
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#800020",
-      "#800020"
+      "#000000",
+      "#ffffff"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#000000",
@@ -183,9 +183,9 @@
     "RED": "#848484"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#000000"
+    "CHAT_GREY": "#8E8E8E"
   },
   "background": {
-        "url": "https://cdn.discordapp.com/attachments/981248954937274409/1213274612843159642/Untitled34_20240301213248.png?ex=65f4e109&is=65e26c09&hm=9a432c28ef688d8f0701f6092a27301e803e4b3f0a4748f35f62feb653c82600&"
+    "url": "https://cdn.discordapp.com/attachments/981248954937274409/1213274612843159642/Untitled34_20240301213248.png?ex=65f4e109&is=65e26c09&hm=9a432c28ef688d8f0701f6092a27301e803e4b3f0a4748f35f62feb653c82600&"
   }
 }
