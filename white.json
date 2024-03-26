@@ -58,7 +58,7 @@
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
-      "#18191A",
+      "#580aee",
       "#ffffff"
     ],
     "BACKGROUND_FLOATING": [
@@ -78,7 +78,7 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#333333",
+      "#580aee",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
@@ -126,7 +126,7 @@
       "#ffffff"
     ],
     "CHANNELS_DEFAULT": [
-      "#15202B",
+      "#580aee",
       "#ffffff"
     ],
     "CARD_PRIMARY_BG": [
@@ -139,11 +139,11 @@
       "#000000"
     ],
     "TEXT_LINK": [
-      "#FFFFFF",
+      "#580aee",
       "#ffffff"
     ],
     "KEYBOARD": [
-      "#18191A",
+      "#580aee",
       "#ffffff"
     ],
     "CHANNEL_ICON": [
