@@ -18,7 +18,7 @@
       "#ffffff"
     ],
     "TEXT_NORMAL": [
-      "#15202B",
+      "#18191A",
       "#000000"
     ],
     "TEXT_MUTED": [
@@ -50,7 +50,7 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#15202B",
+      "#18191A",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
@@ -58,7 +58,7 @@
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
-      "#22303C",
+      "#18191A",
       "#ffffff"
     ],
     "BACKGROUND_FLOATING": [
@@ -143,7 +143,7 @@
       "#ffffff"
     ],
     "KEYBOARD": [
-      "#18191A",
+      "#FFFFFF",
       "#ffffff"
     ],
     "CHANNEL_ICON": [
