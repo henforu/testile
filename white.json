@@ -1,11 +1,11 @@
 {
-  "name": "BetterDark Grey",
-  "description": "Darker than dark, with a twist of grey.",
-  "color": "#7B5190",
+  "name": "BetterDark Purple",
+  "description": "Darker than dark, with a twist of purple.",
+  "color": "#15202B",
   "authors": [
     {
-      "name": "schemeboy",
-      "id": "857159554537357332"
+      "name": "darealyeeto",
+      "id": "980160393093730395"
     }
   ],
   "semanticColors": {
@@ -18,51 +18,51 @@
       "#ffffff"
     ],
     "TEXT_NORMAL": [
-      "#ffffff",
+      "#15202B",
       "#000000"
     ],
     "TEXT_MUTED": [
       "#C3C3C3",
-      "#000000"
+      "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#666666",
+      "#15202B",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#666666",
-      "#000000"
+      "#15202B",
+      "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#666666",
+      "#15202B",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#666666",
-      "#000000"
+      "#15202B",
+      "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
       "#000000",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#333333",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#555555",
-      "#ffffff"
-    ],
-    "BACKGROUND_TERTIARY": [
       "#3E2849",
       "#ffffff"
     ],
+    "BACKGROUND_TERTIARY": [
+      "#22303C",
+      "#ffffff"
+    ],
     "BACKGROUND_ACCENT": [
-      "#272c35",
+      "#22303C",
       "#ffffff"
     ],
     "BACKGROUND_FLOATING": [
-      "#111317",
+      "#22303C",
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
@@ -70,11 +70,11 @@
       "#ffffff"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#333333",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#222222",
+      "#000000",
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
@@ -82,11 +82,11 @@
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#222222",
+      "#18191A",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#333333",
+      "#18191A",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
@@ -106,16 +106,16 @@
       "#ffffff"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "#222222",
-      "#ffffff"
+      "transparent",
+      "transparent"
     ],
     "SCROLLBAR_AUTO_THUMB": [
       "#333333",
       "#ffffff"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#222222",
-      "#ffffff"
+      "transparent",
+      "transparent"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#000000",
@@ -126,7 +126,7 @@
       "#ffffff"
     ],
     "CHANNELS_DEFAULT": [
-      "#D5D5D5",
+      "#15202B",
       "#ffffff"
     ],
     "CARD_PRIMARY_BG": [
@@ -139,15 +139,15 @@
       "#000000"
     ],
     "TEXT_LINK": [
-      "#666666",
+      "#8F5CA8",
       "#ffffff"
     ],
     "KEYBOARD": [
-      "#000000",
+      "#15202B",
       "#ffffff"
     ],
     "CHANNEL_ICON": [
-      "#666666",
+      "#18191A",
       "#ffffff"
     ]
   },
@@ -157,7 +157,7 @@
     "PRIMARY_200": "#ffffff",
     "PRIMARY_300": "#B6B6B6",
     "PRIMARY_360": "#A6A6A6",
-    "PRIMARY_400": "#666666",
+    "PRIMARY_400": "#15202B",
     "PRIMARY_500": "#000000",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
@@ -174,7 +174,7 @@
     "PLUM_20": "#000000",
     "PLUM_22": "#000000",
     "BRAND_260": "#8a94a8",
-    "BRAND_500": "#666666",
+    "BRAND_500": "#18191A",
     "BRAND_900": "#ffffff",
     "BRAND": "#8a94a8",
     "YELLOW_300": "#ffffff",
@@ -183,7 +183,9 @@
     "RED": "#848484"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#8E8E8E"
+    "CHAT_GREY": "#22303C"
   },
   "background": {
-    "url": "https://media.discordapp.net/attachments/1212247670018801664/1222109290018635796/IMG_1846.jpg?ex=661504f8&is=66028ff8&hm=2fe64ff96c9c230ce83b4461b68aafe6c3d5ccaaad69cd614607d9b03da713d4&"
+        "url": "https://cdn.discordapp.com/attachments/981248954937274409/1213274612843159642/Untitled34_20240301213248.png?ex=65f4e109&is=65e26c09&hm=9a432c28ef688d8f0701f6092a27301e803e4b3f0a4748f35f62feb653c82600&"
+  }
+}
