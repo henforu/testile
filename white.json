@@ -26,19 +26,19 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#15202B",
+      "#580aee",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#15202B",
+      "#580aee",
       "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#15202B",
+      "#580aee",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#15202B",
+      "#580aee",
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
@@ -58,7 +58,7 @@
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
-      "#580aee",
+      "#18191A",
       "#ffffff"
     ],
     "BACKGROUND_FLOATING": [
@@ -86,7 +86,7 @@
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#18191A",
+      "#580aee",
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
@@ -143,7 +143,7 @@
       "#ffffff"
     ],
     "KEYBOARD": [
-      "#580aee",
+      "#18191A",
       "#ffffff"
     ],
     "CHANNEL_ICON": [
